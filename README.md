@@ -11,7 +11,7 @@
 - 🏢 I work at [Lael Corporation](https://www.laelcorp.com)
 - 🌍 Located in San Francisco, CA
 - 💼 Senior Software Engineer
-- 🎓 Graduated with a degree in Computer Science from [Tech University](https://www.techuniversity.edu)
+- 🎓 Graduated with a degree in Computer Science from [Imperial College London](https://www.imperial.ac.uk/)
 - 🌱 Currently learning about machine learning and AI
 
 ## My Projects
