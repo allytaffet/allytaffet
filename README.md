@@ -1,6 +1,6 @@
 # Ally Taffet
 
-<img src="https://github.com/allytaffet/allytaffet/blob/main/assets/tumblr_psgl8zvV7R1tdnbbbo1_500.gif" alt="Ally Taffet Avatar" style="width: 100%;">
+<img src="https://github.com/allytaffet/allytaffet/blob/main/assets/animesher.com_gifs-cozy-foodgifs-1022435.gif" alt="Ally Taffet Avatar" style="width: 100%;">
 
 
 ## Senior Software Engineer at Lael Corporation
