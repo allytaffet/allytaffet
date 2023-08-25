@@ -1,6 +1,7 @@
 # Ally Taffet
 
-![Ally Taffet Avatar](https://github.com/allytaffet/allytaffet/blob/main/assets/giphy.gif)
+![Ally Taffet Avatar](https://github.com/allytaffet/allytaffet/blob/main/assets/giphy.gif){:width="100%"}
+
 
 ## Senior Software Engineer at Lael Corporation
 
