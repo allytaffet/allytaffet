@@ -2,6 +2,7 @@
 
 <img src="https://github.com/allytaffet/allytaffet/blob/main/assets/giphy.gif" alt="Ally Taffet Avatar" style="width: 100%;">
 
+
 ## Senior Software Engineer at Lael Corporation
 
 👋 Welcome to my GitHub profile! I'm Ally Taffet, a senior software engineer with a passion for creating elegant solutions to complex problems. I thrive on pushing the boundaries of technology and am committed to delivering innovative software that makes a difference.
