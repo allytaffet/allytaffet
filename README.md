@@ -1,7 +1,6 @@
 # Ally Taffet
 
-![Ally Taffet Avatar](https://github.com/allytaffet/allytaffet/blob/main/assets/giphy.gif){:width="100%"}
-
+<img src="https://github.com/allytaffet/allytaffet/blob/main/assets/giphy.gif" alt="Ally Taffet Avatar" style="width: 100%;">
 
 ## Senior Software Engineer at Lael Corporation
 
